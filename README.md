@@ -453,7 +453,8 @@ employee-attendance-system/
 
 - See the **screenshots** folder for examples of how the app looks in the terminal.
 
-(screenshots/Terminal_interface.png)
+![Terminal Screenshot](screenshots/Terminal_interface.png)
+
 
 
 ---
